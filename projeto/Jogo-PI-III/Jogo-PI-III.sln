@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo-PI-III.CSharp.Plugins", "Jogo-PI-III.CSharp.Plugins.csproj", "{D1B1E5E2-06E1-5092-3FF6-F8542B566A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo-PI-III.CSharp", "Jogo-PI-III.CSharp.csproj", "{09659FEB-0A74-C35B-A014-13DB0ED34F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo-PI-III.CSharp.Editor", "Jogo-PI-III.CSharp.Editor.csproj", "{755A028D-D4BA-213E-094C-C03606C9A349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B1E5E2-06E1-5092-3FF6-F8542B566A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B1E5E2-06E1-5092-3FF6-F8542B566A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B1E5E2-06E1-5092-3FF6-F8542B566A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B1E5E2-06E1-5092-3FF6-F8542B566A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09659FEB-0A74-C35B-A014-13DB0ED34F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09659FEB-0A74-C35B-A014-13DB0ED34F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09659FEB-0A74-C35B-A014-13DB0ED34F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09659FEB-0A74-C35B-A014-13DB0ED34F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755A028D-D4BA-213E-094C-C03606C9A349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755A028D-D4BA-213E-094C-C03606C9A349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755A028D-D4BA-213E-094C-C03606C9A349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755A028D-D4BA-213E-094C-C03606C9A349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: b07fec56a56d2884ab6bbd75b6137cf5
+timeCreated: 1480626904
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: C_Base_5
+    100004: cadre_6
+    100006: Frame_Base_Left_4
+    100008: Frame_Base_Right_4
+    100010: Frame_Head_4
+    100012: Frame_Head_Droit_4
+    100014: Frame_Head_Left_4
+    100016: Frame_Left_4
+    100018: Frame_Right__4
+    100020: group_0
+    100022: instance_0
+    100024: instance_1
+    100026: instance_10
+    100028: instance_11
+    100030: instance_12
+    100032: instance_13
+    100034: instance_14
+    100036: instance_15
+    100038: instance_16
+    100040: instance_17
+    100042: instance_18
+    100044: instance_2
+    100046: instance_3
+    100048: instance_4
+    100050: instance_5
+    100052: instance_6
+    100054: instance_7
+    100056: instance_8
+    100058: instance_9
+    100060: Last Saved SketchUp View
+    100062: V_Base_Awning_1
+    100064: V_Base_Left_Awning_1
+    100066: V_Base_Right_Awning_1
+    100068: V_Glass_Awning_1
+    100070: V_Head_Awning_1
+    100072: V_Head_Droit_Awning_1
+    100074: V_Head_Gauche_Awning_1
+    100076: V_Left_Awning_1
+    100078: V_Right_Awning_1
+    100080: vitre_awning_1
+    400000: //RootNode
+    400002: C_Base_5
+    400004: cadre_6
+    400006: Frame_Base_Left_4
+    400008: Frame_Base_Right_4
+    400010: Frame_Head_4
+    400012: Frame_Head_Droit_4
+    400014: Frame_Head_Left_4
+    400016: Frame_Left_4
+    400018: Frame_Right__4
+    400020: group_0
+    400022: instance_0
+    400024: instance_1
+    400026: instance_10
+    400028: instance_11
+    400030: instance_12
+    400032: instance_13
+    400034: instance_14
+    400036: instance_15
+    400038: instance_16
+    400040: instance_17
+    400042: instance_18
+    400044: instance_2
+    400046: instance_3
+    400048: instance_4
+    400050: instance_5
+    400052: instance_6
+    400054: instance_7
+    400056: instance_8
+    400058: instance_9
+    400060: Last Saved SketchUp View
+    400062: V_Base_Awning_1
+    400064: V_Base_Left_Awning_1
+    400066: V_Base_Right_Awning_1
+    400068: V_Glass_Awning_1
+    400070: V_Head_Awning_1
+    400072: V_Head_Droit_Awning_1
+    400074: V_Head_Gauche_Awning_1
+    400076: V_Left_Awning_1
+    400078: V_Right_Awning_1
+    400080: vitre_awning_1
+    2300000: C_Base_5
+    2300002: Frame_Base_Left_4
+    2300004: Frame_Base_Right_4
+    2300006: Frame_Head_4
+    2300008: Frame_Head_Droit_4
+    2300010: Frame_Left_4
+    2300012: Frame_Right__4
+    2300014: group_0
+    2300016: V_Base_Awning_1
+    2300018: V_Base_Left_Awning_1
+    2300020: V_Base_Right_Awning_1
+    2300022: V_Glass_Awning_1
+    2300024: V_Head_Awning_1
+    2300026: V_Head_Droit_Awning_1
+    2300028: V_Head_Gauche_Awning_1
+    2300030: V_Left_Awning_1
+    2300032: V_Right_Awning_1
+    3300000: C_Base_5
+    3300002: Frame_Base_Left_4
+    3300004: Frame_Base_Right_4
+    3300006: Frame_Head_4
+    3300008: Frame_Head_Droit_4
+    3300010: Frame_Left_4
+    3300012: Frame_Right__4
+    3300014: group_0
+    3300016: V_Base_Awning_1
+    3300018: V_Base_Left_Awning_1
+    3300020: V_Base_Right_Awning_1
+    3300022: V_Glass_Awning_1
+    3300024: V_Head_Awning_1
+    3300026: V_Head_Droit_Awning_1
+    3300028: V_Head_Gauche_Awning_1
+    3300030: V_Left_Awning_1
+    3300032: V_Right_Awning_1
+    4300000: Frame_Base_Left_4
+    4300002: C_Base_5
+    4300004: Frame_Left_4
+    4300006: Frame_Base_Right_4
+    4300008: group_0
+    4300010: Frame_Head_Droit_4
+    4300012: Frame_Head_4
+    4300014: Frame_Right__4
+    4300016: V_Base_Left_Awning_1
+    4300018: V_Left_Awning_1
+    4300020: V_Base_Right_Awning_1
+    4300022: V_Right_Awning_1
+    4300024: V_Head_Gauche_Awning_1
+    4300026: V_Head_Droit_Awning_1
+    4300028: V_Head_Awning_1
+    4300030: V_Glass_Awning_1
+    4300032: V_Base_Awning_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

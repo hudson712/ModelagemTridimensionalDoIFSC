@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>SketchUp 16.0.19912</authoring_tool>
+        </contributor>
+        <created>2016-07-18T13:36:42Z</created>
+        <modified>2016-07-18T13:36:42Z</modified>
+        <unit meter="0.0254" name="inch" />
+        <up_axis>Z_UP</up_axis>
+    </asset>
+    <library_visual_scenes>
+        <visual_scene id="ID1">
+            <node name="SketchUp">
+                <node id="skp_camera" name="Last Saved SketchUp View">
+                    <lookat>2629.284 -1389.21 815.1525 -40.19151 -48.49743 -146.8793 -0.4430394 -0.2683341 0.8554022</lookat>
+                </node>
+                <node id="ID2" name="instance_0">
+                    <matrix>0.02920895 0.001698048 0 1200.389 -0.001698048 0.02920895 0 -215.1446 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID17" name="instance_1">
+                    <matrix>0.02462862 -0.01579484 0 1134.067 0.01579484 0.02462862 0 550.3536 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID18" name="instance_2">
+                    <matrix>0.02284269 -0.0182827 0 1077.119 0.0182827 0.02284269 0 667.364 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID19" name="instance_3">
+                    <matrix>0.02614471 -0.01313392 0 1178.472 0.01313392 0.02614471 0 428.0315 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID20" name="instance_4">
+                    <matrix>0.010641 -0.02725463 0 630.4632 0.02725463 0.010641 0 1130.672 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID21" name="instance_5">
+                    <matrix>0.007733823 -0.02821762 0 515.6146 0.02821762 0.007733823 0 1191.862 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID22" name="instance_6">
+                    <matrix>0.01607503 -0.02444666 0 837.9031 0.02444666 0.01607503 0 974.08 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID23" name="instance_7">
+                    <matrix>0.001698048 -0.02920895 0 269.9379 0.02920895 0.001698048 0 1276.688 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID24" name="instance_8">
+                    <matrix>0.004741912 -0.02887144 0 394.999 0.02887144 0.004741912 0 1240.713 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID25" name="instance_9">
+                    <matrix>0.01854234 -0.02263245 0 928.2218 0.02263245 0.01854234 0 880.3942 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID26" name="instance_10">
+                    <matrix>0.02080649 -0.02057026 0 1008.253 0.02057026 0.02080649 0 777.7808 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID27" name="instance_11">
+                    <matrix>0.01343159 -0.02599304 0 738.2865 0.02599304 0.01343159 0 1057.812 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID28" name="instance_12">
+                    <matrix>-0.007411121 -0.02830408 0 -118.0634 0.02830408 -0.007411121 0 1304.148 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID29" name="instance_13">
+                    <matrix>-0.02057026 -0.02080649 0 -722.9876 0.02080649 -0.02057026 0 1084.552 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID30" name="instance_14">
+                    <matrix>-0.02922643 0.00136442 0 -1244.6 -0.00136442 -0.02922643 0 218.1004 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID31" name="instance_15">
+                    <matrix>-0.02920895 -0.001698048 0 -1221.894 0.001698048 -0.02920895 0 346.2368 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID32" name="instance_16">
+                    <matrix>-0.01579484 -0.02462862 0 -495.5603 0.02462862 -0.01579484 0 1210.366 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID33" name="instance_17">
+                    <matrix>-0.02263245 -0.01854234 0 -825.601 0.01854234 -0.02263245 0 1004.521 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID34" name="instance_18">
+                    <matrix>-0.02725463 -0.010641 0 -1075.879 0.010641 -0.02725463 0 706.7621 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID35" name="instance_19">
+                    <matrix>-0.0103291 -0.02737436 0 -246.9447 0.02737436 -0.0103291 0 1286.146 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID36" name="instance_20">
+                    <matrix>-0.0182827 -0.02284269 0 -612.5708 0.02284269 -0.0182827 0 1153.418 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID37" name="instance_21">
+                    <matrix>-0.02444666 -0.01607503 0 -919.2867 0.01607503 -0.02444666 0 914.2021 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID38" name="instance_22">
+                    <matrix>-0.00136442 -0.02922643 0 141.8015 0.02922643 -0.00136442 0 1299.393 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID39" name="instance_23">
+                    <matrix>-0.02887144 -0.004741912 0 -1185.919 0.004741912 -0.02887144 0 471.2979 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID40" name="instance_24">
+                    <matrix>-0.00441194 -0.0289237 0 11.99365 0.0289237 -0.00441194 0 1308.58 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID41" name="instance_25">
+                    <matrix>-0.02821762 -0.007733823 0 -1137.069 0.007733823 -0.02821762 0 591.9135 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID42" name="instance_26">
+                    <matrix>-0.01313392 -0.02614471 0 -373.2383 0.02614471 -0.01313392 0 1254.771 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID43" name="instance_27">
+                    <matrix>-0.02599304 -0.01343159 0 -1003.018 0.01343159 -0.02599304 0 814.5854 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID44" name="instance_28">
+                    <matrix>-0.004741912 0.02887144 0 -416.5047 -0.02887144 -0.004741912 0 -1109.62 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID45" name="instance_29">
+                    <matrix>-0.02462862 0.01579484 0 -1155.573 -0.01579484 -0.02462862 0 -419.2614 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID46" name="instance_30">
+                    <matrix>-0.010641 0.02725463 0 -651.9689 -0.02725463 -0.010641 0 -999.5796 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID47" name="instance_31">
+                    <matrix>0.00441194 0.0289237 0 -33.49937 -0.0289237 0.00441194 0 -1177.488 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID48" name="instance_32">
+                    <matrix>0.00136442 0.02922643 0 -163.3072 -0.02922643 0.00136442 0 -1168.301 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID49" name="instance_33">
+                    <matrix>-0.02284269 0.0182827 0 -1098.625 -0.0182827 -0.02284269 0 -536.2718 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID50" name="instance_34">
+                    <matrix>-0.01607503 0.02444666 0 -859.4089 -0.02444666 -0.01607503 0 -842.9878 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID51" name="instance_35">
+                    <matrix>-0.007733823 0.02821762 0 -537.1203 -0.02821762 -0.007733823 0 -1060.77 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID52" name="instance_36">
+                    <matrix>-0.02614471 0.01313392 0 -1199.977 -0.01313392 -0.02614471 0 -296.9393 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID53" name="instance_37">
+                    <matrix>-0.02080649 0.02057026 0 -1029.759 -0.02057026 -0.02080649 0 -646.6886 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID54" name="instance_38">
+                    <matrix>-0.01343159 0.02599304 0 -759.7922 -0.02599304 -0.01343159 0 -926.7194 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID55" name="instance_39">
+                    <matrix>-0.0289237 0.00441194 0 -1253.787 -0.00441194 -0.0289237 0 88.29262 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID56" name="instance_40">
+                    <matrix>-0.001698048 0.02920895 0 -291.4436 -0.02920895 -0.001698048 0 -1145.595 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID57" name="instance_41">
+                    <matrix>-0.02830408 0.007411121 0 -1249.355 -0.007411121 -0.02830408 0 -41.76442 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID58" name="instance_42">
+                    <matrix>-0.01854234 0.02263245 0 -949.7275 -0.02263245 -0.01854234 0 -749.302 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID59" name="instance_43">
+                    <matrix>-0.02737436 0.0103291 0 -1231.353 -0.0103291 -0.02737436 0 -170.6457 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID60" name="instance_44">
+                    <matrix>0.02821762 0.007733823 0 1115.563 -0.007733823 0.02821762 0 -460.8213 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID61" name="instance_45">
+                    <matrix>0.02830408 -0.007411121 0 1227.849 0.007411121 0.02830408 0 172.8566 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID62" name="instance_46">
+                    <matrix>0.0289237 -0.00441194 0 1232.281 0.00441194 0.0289237 0 42.79959 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID63" name="instance_47">
+                    <matrix>0.0182827 0.02284269 0 591.0651 -0.02284269 0.0182827 0 -1022.326 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID64" name="instance_48">
+                    <matrix>0.02444666 0.01607503 0 897.781 -0.01607503 0.02444666 0 -783.1099 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID65" name="instance_49">
+                    <matrix>0.01313392 0.02614471 0 351.7325 -0.02614471 0.01313392 0 -1123.678 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID66" name="instance_50">
+                    <matrix>0.01579484 0.02462862 0 474.0546 -0.02462862 0.01579484 0 -1079.274 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID67" name="instance_51">
+                    <matrix>0.02263245 0.01854234 0 804.0952 -0.01854234 0.02263245 0 -873.4285 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID68" name="instance_52">
+                    <matrix>0.02725463 0.010641 0 1054.373 -0.010641 0.02725463 0 -575.6699 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID69" name="instance_53">
+                    <matrix>0.02057026 0.02080649 0 701.4818 -0.02080649 0.02057026 0 -953.4595 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID70" name="instance_54">
+                    <matrix>0.02599304 0.01343159 0 981.5127 -0.01343159 0.02599304 0 -683.4932 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID71" name="instance_55">
+                    <matrix>0.02887144 0.004741912 0 1164.414 -0.004741912 0.02887144 0 -340.2057 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID72" name="instance_56">
+                    <matrix>0.007411121 0.02830408 0 96.55766 -0.02830408 0.007411121 0 -1173.056 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID73" name="instance_57">
+                    <matrix>0.02922643 -0.00136442 0 1223.094 0.00136442 0.02922643 0 -87.00823 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID74" name="instance_58">
+                    <matrix>0.0103291 0.02737436 0 225.439 -0.02737436 0.0103291 0 -1155.054 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+                <node id="ID75" name="instance_59">
+                    <matrix>0.02737436 -0.0103291 0 1209.847 0.0103291 0.02737436 0 301.7379 0 0 1 0 0 0 0 1</matrix>
+                    <instance_node url="#ID3" />
+                </node>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <library_nodes>
+        <node id="ID3" name="Component_1">
+            <instance_geometry url="#ID4">
+                <bind_material>
+                    <technique_common>
+                        <instance_material symbol="Material2" target="#ID5">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                    </technique_common>
+                </bind_material>
+            </instance_geometry>
+        </node>
+    </library_nodes>
+    <library_geometries>
+        <geometry id="ID4">
+            <mesh>
+                <source id="ID10">
+                    <float_array id="ID14" count="24">-15734.07 7324.258 0 10447.35 12977.24 0 -15892.92 10056.63 0 10767.19 7475.562 0 10767.19 7475.562 0 -15734.07 7324.258 0 10447.35 12977.24 0 -15892.92 10056.63 0</float_array>
+                    <technique_common>
+                        <accessor count="8" source="#ID14" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID11">
+                    <float_array id="ID15" count="24">0 0 1 0 0 1 0 0 1 0 0 1 -0 -0 -1 -0 -0 -1 -0 -0 -1 -0 -0 -1</float_array>
+                    <technique_common>
+                        <accessor count="8" source="#ID15" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID13">
+                    <float_array id="ID16" count="8">-0.009351829 -0.24149 1 1.457283 -0.008157899 0.9754282 0.997596 -0.9930037</float_array>
+                    <technique_common>
+                        <accessor count="4" source="#ID16" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID12">
+                    <input semantic="POSITION" source="#ID10" />
+                    <input semantic="NORMAL" source="#ID11" />
+                </vertices>
+                <triangles count="4" material="Material2">
+                    <input offset="0" semantic="VERTEX" source="#ID12" />
+                    <input offset="1" semantic="TEXCOORD" source="#ID13" />
+                    <p>0 0 1 1 2 2 1 1 0 0 3 3 4 3 5 0 6 1 7 2 6 1 5 0</p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_materials>
+        <material id="ID5" name="saturn-rings">
+            <instance_effect url="#ID6" />
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="ID6">
+            <profile_COMMON>
+                <newparam sid="ID8">
+                    <surface type="2D">
+                        <init_from>ID7</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="ID9">
+                    <sampler2D>
+                        <source>ID8</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="COMMON">
+                    <lambert>
+                        <diffuse>
+                            <texture texture="ID9" texcoord="UVSET0" />
+                        </diffuse>
+                        <transparent opaque="A_ONE">
+                            <texture texture="ID9" texcoord="UVSET0" />
+                        </transparent>
+                    </lambert>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_images>
+        <image id="ID7">
+            <init_from>Untitled%20(2)/saturn-rings.png</init_from>
+        </image>
+    </library_images>
+    <scene>
+        <instance_visual_scene url="#ID1" />
+    </scene>
+</COLLADA>

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 161a554cfce7fc142a180d86e99fc4c4
+timeCreated: 1480626904
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back Iso
+    100004: Component_1
+    100006: Florecent_Lamp_Base
+    100008: Florecent_Lamp_Base 1
+    100010: Flourecent_Light
+    100012: Flourecent_Light_Bulb
+    100014: Front Iso
+    100016: group_0
+    100018: ID17
+    100020: ID17 1
+    100022: ID23
+    100024: ID23 1
+    100026: ID44
+    100028: ID50
+    100030: ID56
+    100032: ID62
+    100034: ID68
+    100036: ID76
+    100038: ID82
+    100040: ID88
+    100042: ID96
+    100044: instance_0
+    100046: instance_1
+    100048: instance_2
+    100050: instance_3
+    100052: instance_4
+    100054: Last Saved SketchUp View
+    400000: //RootNode
+    400002: Back Iso
+    400004: Component_1
+    400006: Florecent_Lamp_Base
+    400008: Florecent_Lamp_Base 1
+    400010: Flourecent_Light
+    400012: Flourecent_Light_Bulb
+    400014: Front Iso
+    400016: group_0
+    400018: ID17
+    400020: ID17 1
+    400022: ID23
+    400024: ID23 1
+    400026: ID44
+    400028: ID50
+    400030: ID56
+    400032: ID62
+    400034: ID68
+    400036: ID76
+    400038: ID82
+    400040: ID88
+    400042: ID96
+    400044: instance_0
+    400046: instance_1
+    400048: instance_2
+    400050: instance_3
+    400052: instance_4
+    400054: Last Saved SketchUp View
+    2300000: Florecent_Lamp_Base
+    2300002: Florecent_Lamp_Base 1
+    2300004: Flourecent_Light_Bulb
+    2300006: group_0
+    2300008: ID17
+    2300010: ID17 1
+    2300012: ID23
+    2300014: ID23 1
+    2300016: ID44
+    2300018: ID50
+    2300020: ID56
+    2300022: ID62
+    2300024: ID68
+    2300026: ID76
+    2300028: ID82
+    2300030: ID88
+    3300000: Florecent_Lamp_Base
+    3300002: Florecent_Lamp_Base 1
+    3300004: Flourecent_Light_Bulb
+    3300006: group_0
+    3300008: ID17
+    3300010: ID17 1
+    3300012: ID23
+    3300014: ID23 1
+    3300016: ID44
+    3300018: ID50
+    3300020: ID56
+    3300022: ID62
+    3300024: ID68
+    3300026: ID76
+    3300028: ID82
+    3300030: ID88
+    4300000: group_0
+    4300002: Florecent_Lamp_Base
+    4300004: ID17
+    4300006: ID23
+    4300008: Flourecent_Light_Bulb
+    4300010: ID44
+    4300012: ID50
+    4300014: ID56
+    4300016: ID62
+    4300018: ID68
+    4300020: ID76
+    4300022: ID82
+    4300024: ID88
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

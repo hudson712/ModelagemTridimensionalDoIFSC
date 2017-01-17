@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: c15fa5d14fce9d243b93e52861087402
+timeCreated: 1468849352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component_1
+    100002: Component_1 1
+    100004: Component_1 10
+    100006: Component_1 11
+    100008: Component_1 12
+    100010: Component_1 13
+    100012: Component_1 14
+    100014: Component_1 15
+    100016: Component_1 16
+    100018: Component_1 17
+    100020: Component_1 18
+    100022: Component_1 19
+    100024: Component_1 2
+    100026: Component_1 20
+    100028: Component_1 21
+    100030: Component_1 22
+    100032: Component_1 23
+    100034: Component_1 24
+    100036: Component_1 25
+    100038: Component_1 26
+    100040: Component_1 27
+    100042: Component_1 28
+    100044: Component_1 29
+    100046: Component_1 3
+    100048: Component_1 30
+    100050: Component_1 31
+    100052: Component_1 32
+    100054: Component_1 33
+    100056: Component_1 34
+    100058: Component_1 35
+    100060: Component_1 36
+    100062: Component_1 37
+    100064: Component_1 38
+    100066: Component_1 39
+    100068: Component_1 4
+    100070: Component_1 40
+    100072: Component_1 41
+    100074: Component_1 42
+    100076: Component_1 43
+    100078: Component_1 44
+    100080: Component_1 45
+    100082: Component_1 46
+    100084: Component_1 47
+    100086: Component_1 48
+    100088: Component_1 49
+    100090: Component_1 5
+    100092: Component_1 50
+    100094: Component_1 51
+    100096: Component_1 52
+    100098: Component_1 53
+    100100: Component_1 54
+    100102: Component_1 55
+    100104: Component_1 56
+    100106: Component_1 57
+    100108: Component_1 58
+    100110: Component_1 59
+    100112: Component_1 6
+    100114: Component_1 7
+    100116: Component_1 8
+    100118: Component_1 9
+    100120: instance_0
+    100122: instance_1
+    100124: instance_10
+    100126: instance_11
+    100128: instance_12
+    100130: instance_13
+    100132: instance_14
+    100134: instance_15
+    100136: instance_16
+    100138: instance_17
+    100140: instance_18
+    100142: instance_19
+    100144: instance_2
+    100146: instance_20
+    100148: instance_21
+    100150: instance_22
+    100152: instance_23
+    100154: instance_24
+    100156: instance_25
+    100158: instance_26
+    100160: instance_27
+    100162: instance_28
+    100164: instance_29
+    100166: instance_3
+    100168: instance_30
+    100170: instance_31
+    100172: instance_32
+    100174: instance_33
+    100176: instance_34
+    100178: instance_35
+    100180: instance_36
+    100182: instance_37
+    100184: instance_38
+    100186: instance_39
+    100188: instance_4
+    100190: instance_40
+    100192: instance_41
+    100194: instance_42
+    100196: instance_43
+    100198: instance_44
+    100200: instance_45
+    100202: instance_46
+    100204: instance_47
+    100206: instance_48
+    100208: instance_49
+    100210: instance_5
+    100212: instance_50
+    100214: instance_51
+    100216: instance_52
+    100218: instance_53
+    100220: instance_54
+    100222: instance_55
+    100224: instance_56
+    100226: instance_57
+    100228: instance_58
+    100230: instance_59
+    100232: instance_6
+    100234: instance_7
+    100236: instance_8
+    100238: instance_9
+    100240: Last Saved SketchUp View
+    100242: //RootNode
+    400000: Component_1
+    400002: Component_1 1
+    400004: Component_1 10
+    400006: Component_1 11
+    400008: Component_1 12
+    400010: Component_1 13
+    400012: Component_1 14
+    400014: Component_1 15
+    400016: Component_1 16
+    400018: Component_1 17
+    400020: Component_1 18
+    400022: Component_1 19
+    400024: Component_1 2
+    400026: Component_1 20
+    400028: Component_1 21
+    400030: Component_1 22
+    400032: Component_1 23
+    400034: Component_1 24
+    400036: Component_1 25
+    400038: Component_1 26
+    400040: Component_1 27
+    400042: Component_1 28
+    400044: Component_1 29
+    400046: Component_1 3
+    400048: Component_1 30
+    400050: Component_1 31
+    400052: Component_1 32
+    400054: Component_1 33
+    400056: Component_1 34
+    400058: Component_1 35
+    400060: Component_1 36
+    400062: Component_1 37
+    400064: Component_1 38
+    400066: Component_1 39
+    400068: Component_1 4
+    400070: Component_1 40
+    400072: Component_1 41
+    400074: Component_1 42
+    400076: Component_1 43
+    400078: Component_1 44
+    400080: Component_1 45
+    400082: Component_1 46
+    400084: Component_1 47
+    400086: Component_1 48
+    400088: Component_1 49
+    400090: Component_1 5
+    400092: Component_1 50
+    400094: Component_1 51
+    400096: Component_1 52
+    400098: Component_1 53
+    400100: Component_1 54
+    400102: Component_1 55
+    400104: Component_1 56
+    400106: Component_1 57
+    400108: Component_1 58
+    400110: Component_1 59
+    400112: Component_1 6
+    400114: Component_1 7
+    400116: Component_1 8
+    400118: Component_1 9
+    400120: instance_0
+    400122: instance_1
+    400124: instance_10
+    400126: instance_11
+    400128: instance_12
+    400130: instance_13
+    400132: instance_14
+    400134: instance_15
+    400136: instance_16
+    400138: instance_17
+    400140: instance_18
+    400142: instance_19
+    400144: instance_2
+    400146: instance_20
+    400148: instance_21
+    400150: instance_22
+    400152: instance_23
+    400154: instance_24
+    400156: instance_25
+    400158: instance_26
+    400160: instance_27
+    400162: instance_28
+    400164: instance_29
+    400166: instance_3
+    400168: instance_30
+    400170: instance_31
+    400172: instance_32
+    400174: instance_33
+    400176: instance_34
+    400178: instance_35
+    400180: instance_36
+    400182: instance_37
+    400184: instance_38
+    400186: instance_39
+    400188: instance_4
+    400190: instance_40
+    400192: instance_41
+    400194: instance_42
+    400196: instance_43
+    400198: instance_44
+    400200: instance_45
+    400202: instance_46
+    400204: instance_47
+    400206: instance_48
+    400208: instance_49
+    400210: instance_5
+    400212: instance_50
+    400214: instance_51
+    400216: instance_52
+    400218: instance_53
+    400220: instance_54
+    400222: instance_55
+    400224: instance_56
+    400226: instance_57
+    400228: instance_58
+    400230: instance_59
+    400232: instance_6
+    400234: instance_7
+    400236: instance_8
+    400238: instance_9
+    400240: Last Saved SketchUp View
+    400242: //RootNode
+    2300000: Component_1
+    2300002: Component_1 1
+    2300004: Component_1 10
+    2300006: Component_1 11
+    2300008: Component_1 12
+    2300010: Component_1 13
+    2300012: Component_1 14
+    2300014: Component_1 15
+    2300016: Component_1 16
+    2300018: Component_1 17
+    2300020: Component_1 18
+    2300022: Component_1 19
+    2300024: Component_1 2
+    2300026: Component_1 20
+    2300028: Component_1 21
+    2300030: Component_1 22
+    2300032: Component_1 23
+    2300034: Component_1 24
+    2300036: Component_1 25
+    2300038: Component_1 26
+    2300040: Component_1 27
+    2300042: Component_1 28
+    2300044: Component_1 29
+    2300046: Component_1 3
+    2300048: Component_1 30
+    2300050: Component_1 31
+    2300052: Component_1 32
+    2300054: Component_1 33
+    2300056: Component_1 34
+    2300058: Component_1 35
+    2300060: Component_1 36
+    2300062: Component_1 37
+    2300064: Component_1 38
+    2300066: Component_1 39
+    2300068: Component_1 4
+    2300070: Component_1 40
+    2300072: Component_1 41
+    2300074: Component_1 42
+    2300076: Component_1 43
+    2300078: Component_1 44
+    2300080: Component_1 45
+    2300082: Component_1 46
+    2300084: Component_1 47
+    2300086: Component_1 48
+    2300088: Component_1 49
+    2300090: Component_1 5
+    2300092: Component_1 50
+    2300094: Component_1 51
+    2300096: Component_1 52
+    2300098: Component_1 53
+    2300100: Component_1 54
+    2300102: Component_1 55
+    2300104: Component_1 56
+    2300106: Component_1 57
+    2300108: Component_1 58
+    2300110: Component_1 59
+    2300112: Component_1 6
+    2300114: Component_1 7
+    2300116: Component_1 8
+    2300118: Component_1 9
+    3300000: Component_1
+    3300002: Component_1 1
+    3300004: Component_1 10
+    3300006: Component_1 11
+    3300008: Component_1 12
+    3300010: Component_1 13
+    3300012: Component_1 14
+    3300014: Component_1 15
+    3300016: Component_1 16
+    3300018: Component_1 17
+    3300020: Component_1 18
+    3300022: Component_1 19
+    3300024: Component_1 2
+    3300026: Component_1 20
+    3300028: Component_1 21
+    3300030: Component_1 22
+    3300032: Component_1 23
+    3300034: Component_1 24
+    3300036: Component_1 25
+    3300038: Component_1 26
+    3300040: Component_1 27
+    3300042: Component_1 28
+    3300044: Component_1 29
+    3300046: Component_1 3
+    3300048: Component_1 30
+    3300050: Component_1 31
+    3300052: Component_1 32
+    3300054: Component_1 33
+    3300056: Component_1 34
+    3300058: Component_1 35
+    3300060: Component_1 36
+    3300062: Component_1 37
+    3300064: Component_1 38
+    3300066: Component_1 39
+    3300068: Component_1 4
+    3300070: Component_1 40
+    3300072: Component_1 41
+    3300074: Component_1 42
+    3300076: Component_1 43
+    3300078: Component_1 44
+    3300080: Component_1 45
+    3300082: Component_1 46
+    3300084: Component_1 47
+    3300086: Component_1 48
+    3300088: Component_1 49
+    3300090: Component_1 5
+    3300092: Component_1 50
+    3300094: Component_1 51
+    3300096: Component_1 52
+    3300098: Component_1 53
+    3300100: Component_1 54
+    3300102: Component_1 55
+    3300104: Component_1 56
+    3300106: Component_1 57
+    3300108: Component_1 58
+    3300110: Component_1 59
+    3300112: Component_1 6
+    3300114: Component_1 7
+    3300116: Component_1 8
+    3300118: Component_1 9
+    4300000: Component_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
